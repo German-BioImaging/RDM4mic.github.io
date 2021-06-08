@@ -13,7 +13,8 @@ The meetings are about:
 
 ### Meetings:
 
- ![RDM4mic meeting overview](https://github.com/German-BioImaging/RDM4mic/blob/master/images/RDM4mic_meetings.png)
+
+ <img src="./assets/RDM4mic_meetings.png" width="800">
 
 
 - [04.2021](https://github.com/German-BioImaging/RDM4mic/tree/master/meetings/2021-04)
