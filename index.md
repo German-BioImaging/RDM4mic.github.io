@@ -9,7 +9,13 @@ The meetings are about:
 - Available software, tools, workflows and standards
 - Handling of change management
 
+---
+
 ### Meetings:
+
+ ![RDM4mic meeting overview](https://github.com/German-BioImaging/RDM4mic/blob/master/images/RDM4mic_meetings.png)
+
+
 - [04.2021](https://github.com/German-BioImaging/RDM4mic/tree/master/meetings/2021-04)
 - [11.2020](https://github.com/German-BioImaging/RDM4mic/tree/master/meetings/2020-11)
 - 07.2020
