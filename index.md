@@ -19,10 +19,10 @@ The meetings are about:
 
 - [04.2021](https://github.com/German-BioImaging/RDM4mic/tree/master/meetings/2021-04)
 - [11.2020](https://github.com/German-BioImaging/RDM4mic/tree/master/meetings/2020-11)
-- 07.2020
-- 02.2020
-- 06.2019
-- 02.2019
+- [07.2020](https://www.gerbi-gmb.de/node/238)
+- [02.2020](https://www.gerbi-gmb.de/node/238)
+- [06.2019](https://www.gerbi-gmb.de/node/238)
+- [02.2019](https://www.gerbi-gmb.de/node/238)
 
 
 ### Contact
