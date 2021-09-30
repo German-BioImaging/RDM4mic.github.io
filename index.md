@@ -1,6 +1,6 @@
 ## RDM4Mic - Research Data Management for Microscopy
 
-Initiated by Susanne Kunis (CellNanOs, Osnabrueck), Stefanie Weidtkamp-Peters (CAi, Duesseldorf) and Astrid Strauss (CECAD, Cologne), this group started its work in 2019 and deals with the topic of research data management for microscopy ([RDM4mic overview](https://github.com/German-BioImaging/RDM4mic/blob/master/presentations/RDM4mic.pdf)). Presently the group has 47 members from different institutions.
+Initiated by Susanne Kunis (CellNanOs, Osnabrueck), Stefanie Weidtkamp-Peters (CAi, Duesseldorf) and Astrid Strauss (CECAD, Cologne), this group started its work in 2019 and deals with the topic of research data management for microscopy ([overview](https://github.com/German-BioImaging/RDM4mic/blob/master/presentations/Rdm4mic_landscape_elmi2021.pdf)). Presently the group has 47 members from different institutions.
 
 The meetings are about:
 
