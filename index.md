@@ -17,7 +17,7 @@ The meetings are about:
  <img src="./assets/RDM4mic_meetings.png" width="800">
 
 
-- [12.2021 preliminary agenda](https://github.com/German-BioImaging/RDM4mic/tree/master/meetings/2021-12/2021_12_agenda.md)
+- [12.2021 preliminary agenda](https://github.com/German-BioImaging/RDM4mic/blob/master/meetings/2021-12/2021-12_agenda.md)
 - [04.2021](https://github.com/German-BioImaging/RDM4mic/tree/master/meetings/2021-04)
 - [11.2020](https://github.com/German-BioImaging/RDM4mic/tree/master/meetings/2020-11)
 - [07.2020](https://github.com/German-BioImaging/RDM4mic/tree/master/meetings/2020-07)
