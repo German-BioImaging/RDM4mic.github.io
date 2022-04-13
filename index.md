@@ -23,7 +23,7 @@ Please subscribe to the mailing list to receive further information.
 
  <img src="./assets/RDM4mic_meetings.png" width="800">
 
-**Upcoming event:** 16/17.05.2022 RDM4mic with I3D:bio satellite meeting -- [preliminary agenda](https://github.com/German-BioImaging/RDM4mic/blob/master/meetings/2022-05/2022-05_agenda.md)
+
 - [12.2021](https://github.com/German-BioImaging/RDM4mic/blob/master/meetings/2021-12)
 - [04.2021](https://github.com/German-BioImaging/RDM4mic/tree/master/meetings/2021-04)
 - [11.2020](https://github.com/German-BioImaging/RDM4mic/tree/master/meetings/2020-11)
