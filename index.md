@@ -13,7 +13,7 @@ The meetings are about:
 ### Upcoming event:
 
 **16/17.05.2022 RDM4mic with I3D:bio satellite meeting** ([Agenda](https://github.com/German-BioImaging/RDM4mic/blob/master/meetings/2022-05/2022-05_agenda.md))
-[Register for the meeting here](https://us02web.zoom.us/meeting/register/tZcucOmtrj0iH9cZ5RZnMNC4I_nocffdcQdS)
+- [Register for the meeting here](https://us02web.zoom.us/meeting/register/tZcucOmtrj0iH9cZ5RZnMNC4I_nocffdcQdS)
 
 Please [subscribe](https://www.listserv.dfn.de/sympa/info/rdm4mic) to the mailing list to receive further information.
 
