@@ -15,7 +15,7 @@ The work of RDM4mic is funded by the DFG with the [I3D:bio Project](https://gerb
 
 ### News:
 
-**Upcoming meeting: 19.09-21.09.2023 (WWU Muenster in person)** [register now](https://forms.gle/8N5hrRwSVAy74P7E6 )
+Planning for 2025 in progress
  
 
 ---
