@@ -9,7 +9,7 @@ The meetings are about:
 - Available software, tools, workflows and standards
 - Handling of change management
 
-The work of RDM4mic is funded by the DFG with the [I3D:bio Project](https://gerbi-gmb.de/i3dbio/i3dbio-about/) (2021-2023).
+The work of RDM4mic is funded by the DFG with the [I3D:bio Project](https://gerbi-gmb.de/i3dbio/i3dbio-about/) (2021-2023 - still running until 2026).
 
 ---
 
