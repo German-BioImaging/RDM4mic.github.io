@@ -24,6 +24,7 @@ The work of RDM4mic is funded by the DFG with the [I3D:bio Project](https://gerb
 
 <img src="./assets/RDM4mic_meetings.png" width="700">
 
+- [09.2023](https://github.com/German-BioImaging/RDM4mic/tree/master/meetings/2023-09)
 - [05.2022](https://github.com/German-BioImaging/RDM4mic/tree/master/meetings/2022-05)
 - [12.2021](https://github.com/German-BioImaging/RDM4mic/blob/master/meetings/2021-12)
 - [04.2021](https://github.com/German-BioImaging/RDM4mic/tree/master/meetings/2021-04)
