@@ -15,7 +15,8 @@ The work of RDM4mic is funded by the DFG with the [I3D:bio Project](https://gerb
 
 ### News:
 
-Planning for 2025 in progress
+Planning for 2025 in progress. Save the Date: October 21st - 23rd, Münster (likely, it will be a hybrid meeting).
+Programm details and registration will follow. Sign up to the mailing list to receive updates immediately.
  
 
 ---
