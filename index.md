@@ -15,16 +15,19 @@ The work of RDM4mic is funded by the DFG with the [I3D:bio Project](https://gerb
 
 ### News:
 
-Planning for 2025 in progress. Save the Date: October 21st - 23rd, Münster (likely, it will be a hybrid meeting).
-Programm details and registration will follow. Sign up to the mailing list to receive updates immediately.
+Registration for the 2025 RDM4mic meeting in Münster is currently open until Ocotber 1st: 
+https://hackmd.io/@marietovelill/RDM4mic2025
+The meeting will be held as an in-person only meeting, but selected talks will be recorded for review.
+Dates: October 21st-23rd, Münster Multiscale Imaging Center
+Host: Dr. Marie Baldenius and Dr. Thomas Zobel, University of Münster, NFDI4BIOIMAGE
  
-
 ---
 
 ### Meetings:
 
 <img src="./assets/RDM4mic_meetings.png" width="700">
 
+- [10.2025](https://hackmd.io/@marietovelill/RDM4mic2025)
 - [09.2023](https://github.com/German-BioImaging/RDM4mic/tree/master/meetings/2023-09)
 - [05.2022](https://github.com/German-BioImaging/RDM4mic/tree/master/meetings/2022-05)
 - [12.2021](https://github.com/German-BioImaging/RDM4mic/blob/master/meetings/2021-12)
