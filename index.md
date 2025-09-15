@@ -15,7 +15,7 @@ The work of RDM4mic is funded by the DFG with the [I3D:bio Project](https://gerb
 
 ### News:
 
-Registration for the 2025 RDM4mic meeting in Münster is currently open until October 1st: 
+The egistration for the 2025 RDM4mic meeting in Münster is already closed because all slots have been booked. Find more information on the meeting here: 
 [https://hackmd.io/@marietovelill/RDM4mic2025](https://hackmd.io/@marietovelill/RDM4mic2025)
 The meeting will be held as an in-person only meeting, but selected talks will be recorded for review.
 
