@@ -9,19 +9,13 @@ The meetings are about:
 - Available software, tools, workflows and standards
 - Handling of change management
 
-The work of RDM4mic is funded by the DFG with the [I3D:bio Project](https://gerbi-gmb.de/i3dbio/i3dbio-about/) (2021-2023 - still running until 2026).
+The work of RDM4mic has been funded by the DFG through the [I3D:bio Project](https://gerbi-gmb.de/i3dbio/i3dbio-about/) (2022-2025) and is supported through the NFDI4BIOIMAGE consortium (DFG grant: NFDI 46/1 – 501864659)
 
 ---
 
 ### News:
 
-The egistration for the 2025 RDM4mic meeting in Münster is already closed because all slots have been booked. Find more information on the meeting here: 
-[https://hackmd.io/@marietovelill/RDM4mic2025](https://hackmd.io/@marietovelill/RDM4mic2025)
-The meeting will be held as an in-person only meeting, but selected talks will be recorded for review.
-
-Dates: October 21st-23rd, Münster Multiscale Imaging Center
-
-Host: Dr. Marie Baldenius and Dr. Thomas Zobel, University of Münster, NFDI4BIOIMAGE
+The 2026 RDM4Mic meeting is scheduled for October 7th-9th, taking place in Cologne. Save the date and stay tuned for updates!
  
 ---
 
