@@ -15,7 +15,15 @@ The work of RDM4mic has been funded by the DFG through the [I3D:bio Project](htt
 
 ### News:
 
-The 2026 RDM4Mic meeting is scheduled for October 7th-9th, taking place in Cologne. Save the date and stay tuned for updates!
+We are excited to invite you to the **RDM4mic Meeting 2026, taking place from October 7th to October 9th, 2026 at the CECAD Research Center & MPI for Biology of Ageing in Cologne**.
+Join us for three days of vibrant discussions, networking, and knowledge-sharing on research data management, FAIR image data workflows, and tools for microscopy. Whether you are a core facility manager, bioimage analyst, data steward, developer or researcher, we look forward to exchanging ideas with you!
+
+Date : **October 7–9, 2026**
+Location : **CECAD & MPI AGE, Cologne, Germany**
+Registration : [Click here to Register](https://forms.gle/BJMQBhe9FFqeqeEZ7)
+Preliminary Program : [Click here to View](https://hackmd.io/Z0IahqkXSIunxN1F7ITxuw)
+Spaces are limited, so please secure your spot early. We would appreciate it if you could contribute to a talk or a topic for the workshop. The deadline for this is 10 September 2026.
+If you are new to RDM4mic, there is a planned virtual intro session on October 1. Further details will be announced in due course.
  
 ---
 
